@@ -1,0 +1,6 @@
+# Advent Of Code 2024
+
+This repository contains my solutions to the advent of code 2024. I used the event to learn the basics of rust lang so don't use this code to learn
+nifty things about rust programming.
+
+Licensed under the terms of the MIT Licence. See the link:LICENSE[license file] for a full copy of the license.
